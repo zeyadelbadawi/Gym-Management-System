@@ -1,0 +1,488 @@
+C:\Users\obakr\source\repos\new project1\new project1\bin\Debug\new project1.exe.config
+C:\Users\obakr\source\repos\new project1\new project1\bin\Debug\new project1.exe
+C:\Users\obakr\source\repos\new project1\new project1\bin\Debug\new project1.pdb
+C:\Users\obakr\source\repos\new project1\new project1\bin\Debug\MaterialSkin.dll
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new project1.csproj.AssemblyReference.cache
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new_project1.Form1.resources
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new_project1.Properties.Resources.resources
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new project1.csproj.GenerateResource.cache
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new project1.csproj.CoreCompileInputs.cache
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new project1.csproj.CopyComplete
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new project1.exe
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new project1.pdb
+C:\Users\obakr\source\repos\new project1\new project1\bin\Debug\ar\new project1.resources.dll
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\new_project1.Form1.ar.resources
+C:\Users\obakr\source\repos\new project1\new project1\obj\Debug\ar\new project1.resources.dll
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\bin\Debug\new project1.exe.config
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\bin\Debug\new project1.exe
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\bin\Debug\new project1.pdb
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\bin\Debug\ar\new project1.resources.dll
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\bin\Debug\MaterialSkin.dll
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new project1.csproj.AssemblyReference.cache
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new_project1.Form1.resources
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new_project1.Properties.Resources.resources
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new_project1.Form1.ar.resources
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new project1.csproj.GenerateResource.cache
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new project1.csproj.CoreCompileInputs.cache
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\ar\new project1.resources.dll
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new project1.csproj.CopyComplete
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new project1.exe
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\obj\Debug\new project1.pdb
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hussa\OneDrive\Desktop\new project1\new project1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\new project1.exe.config
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\new project1.exe
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\new project1.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\ar\new project1.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Azure.Core.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Azure.Identity.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Dapper.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\MaterialSkin.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Buffers.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Memory.Data.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Memory.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.Permissions.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Text.Json.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.ValueTuple.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\zxing.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\zxing.presentation.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Azure.Core.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Azure.Identity.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Dapper.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Buffers.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Memory.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Memory.Data.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.Permissions.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Text.Json.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\System.ValueTuple.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\zxing.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\zxing.presentation.xml
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.csproj.AssemblyReference.cache
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.csproj.ResolveComReference.cache
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.attendancecontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.AttendanceHome.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.AttendanceStudent.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.backup.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.centerschedule.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.coursecontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.deletecoursecontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.deletelevelcontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.deletestudentcontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.deleteteachercontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.FindStudentThatRegestOnTeacher.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.Form1.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.Insert_new_teacher.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.insertcourse.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.insertlevelcontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.InsertSchedules.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.InsertStudentControl.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.InsertStudentSchedule.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.levelhomepage.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.listviewcontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.Logo.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.Properties.Resources.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.Schedules_Home.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.student_schedule_last.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.studenthomepage.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.StudentRegestOrNotInSubject.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.StudentReportsControls.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.teacherhomepage.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.TeacherSchedule.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.updatecentercshedule1.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.updatecourseControl.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.updatelevelcontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.updateschedule.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.updatestudentcontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.UpdateTeacher.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.updateteachercontrol.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.Form1.ar.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.csproj.GenerateResource.cache
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.csproj.CoreCompileInputs.cache
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\ar\new project1.resources.dll
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.csproj.CopyComplete
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.exe
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new project1.pdb
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.LoginForm.resources
+C:\Users\obakr\OneDrive\Desktop\center system\new project1\new project1\new project1\obj\Debug\new_project1.Changepassword.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new project1.csproj.AssemblyReference.cache
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new project1.csproj.ResolveComReference.cache
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.attendancecontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.AttendanceHome.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.AttendanceStudent.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.backup.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.centerschedule.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.Changepassword.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.coursecontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.deletecoursecontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.deletelevelcontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.deletestudentcontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.deleteteachercontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.Form1.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.Insert_new_teacher.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.insertcourse.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.insertlevelcontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.InsertStudentControl.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.levelhomepage.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.listviewcontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.LoginForm.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.Logo.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.Properties.Resources.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.studenthomepage.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.StudentReportsControls.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.teacherhomepage.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.TeacherSchedule.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.updatecourseControl.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.updatelevelcontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.updatestudentcontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.UpdateTeacher.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.updateteachercontrol.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new_project1.Form1.ar.resources
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new project1.csproj.GenerateResource.cache
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new project1.csproj.CoreCompileInputs.cache
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new project1.exe
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new project1.pdb
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\new project1.exe.config
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\new project1.exe
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\new project1.pdb
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\ar\new project1.resources.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\BouncyCastle.Crypto.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Dapper.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Google.Protobuf.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\K4os.Compression.LZ4.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\K4os.Hash.xxHash.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\MaterialSkin.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\MySql.Data.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Newtonsoft.Json.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Buffers.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.IO.Pipelines.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Memory.Data.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Memory.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Numerics.Vectors.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.AccessControl.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.Permissions.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.Principal.Windows.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Text.Encodings.Web.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Text.Json.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.ValueTuple.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\ZstdSharp.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\zxing.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\zxing.presentation.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\BouncyCastle.Crypto.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Dapper.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Google.Protobuf.pdb
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Google.Protobuf.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\K4os.Compression.LZ4.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\K4os.Hash.xxHash.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\MySql.Data.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\Newtonsoft.Json.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Buffers.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.IO.Pipelines.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Memory.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Memory.Data.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Numerics.Vectors.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.AccessControl.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.Permissions.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Security.Principal.Windows.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Text.Encodings.Web.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Text.Json.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.ValueTuple.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\zxing.xml
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\zxing.presentation.xml
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\ar\new project1.resources.dll
+D:\games\new project1\new project1\new project1\new project1\obj\Debug\new project1.csproj.CopyComplete
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\games\new project1\new project1\new project1\new project1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\new project1.exe.config
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\new project1.exe
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\new project1.pdb
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\ar\new project1.resources.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Dapper.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Google.Protobuf.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\K4os.Compression.LZ4.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\K4os.Hash.xxHash.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\MaterialSkin.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.Identity.Client.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\MySql.Data.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Newtonsoft.Json.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Buffers.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.IO.Pipelines.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Memory.Data.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Memory.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Numerics.Vectors.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.AccessControl.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.Permissions.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.Principal.Windows.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Text.Encodings.Web.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Text.Json.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.ValueTuple.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\ZstdSharp.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\zxing.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\zxing.presentation.dll
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\BouncyCastle.Crypto.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Dapper.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Google.Protobuf.pdb
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Google.Protobuf.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\K4os.Compression.LZ4.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\K4os.Hash.xxHash.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.Identity.Client.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\MySql.Data.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\Newtonsoft.Json.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Buffers.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.IO.Pipelines.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Memory.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Memory.Data.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Numerics.Vectors.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.AccessControl.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.Permissions.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Security.Principal.Windows.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Text.Encodings.Web.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Text.Json.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\System.ValueTuple.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\zxing.xml
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\zxing.presentation.xml
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.csproj.AssemblyReference.cache
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.csproj.ResolveComReference.cache
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.attendancecontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.AttendanceHome.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.AttendanceStudent.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.backup.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.centerschedule.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.Changepassword.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.coursecontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.deletecoursecontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.deletelevelcontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.deletestudentcontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.deleteteachercontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.Form1.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.Insert_new_teacher.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.insertcourse.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.insertlevelcontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.InsertStudentControl.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.levelhomepage.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.listviewcontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.LoginForm.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.Logo.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.Properties.Resources.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.studenthomepage.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.StudentReportsControls.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.teacherhomepage.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.TeacherSchedule.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.updatecourseControl.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.updatelevelcontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.updatestudentcontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.UpdateTeacher.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.updateteachercontrol.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new_project1.Form1.ar.resources
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.csproj.GenerateResource.cache
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.csproj.CoreCompileInputs.cache
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\ar\new project1.resources.dll
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.csproj.CopyComplete
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.exe
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.pdb
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\new project1.exe.manifest
+D:\MSA\gym_system_managment\new project1\new project1\bin\Debug\new project1.application
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.exe.manifest
+D:\MSA\gym_system_managment\new project1\new project1\obj\Debug\new project1.application
